@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/OKHUB/static/css/main.a784f30c.css",
+    "main.js": "/OKHUB/static/js/main.a17e3939.js",
+    "static/js/453.7d5ef750.chunk.js": "/OKHUB/static/js/453.7d5ef750.chunk.js",
+    "static/media/img_1.png": "/OKHUB/static/media/img_1.e8b6eafd5a3fe3b7b117.png",
+    "static/media/img_9.png": "/OKHUB/static/media/img_9.ea2998736b0c06e07bac.png",
+    "static/media/img_2.png": "/OKHUB/static/media/img_2.196328e21d953cc3b482.png",
+    "static/media/img_4.png": "/OKHUB/static/media/img_4.4146246c94497dc361aa.png",
+    "static/media/img_3.png": "/OKHUB/static/media/img_3.471b2af3a584b06693a7.png",
+    "static/media/img_8.png": "/OKHUB/static/media/img_8.d855abbb4de5413ec1cd.png",
+    "static/media/img_6.png": "/OKHUB/static/media/img_6.b17897c2dc77b858ad95.png",
+    "static/media/img_5.png": "/OKHUB/static/media/img_5.924ac633a461bb5d6d7f.png",
+    "static/media/img_10.png": "/OKHUB/static/media/img_10.df15cb2bdfe4ff3acf5c.png",
+    "static/media/img_12.png": "/OKHUB/static/media/img_12.1a71b965c6455001c608.png",
+    "static/media/img_7.png": "/OKHUB/static/media/img_7.a219bd9c5ef166589fbe.png",
+    "static/media/img_11.png": "/OKHUB/static/media/img_11.0b127e0d07f42f371395.png",
+    "static/media/collab_1.png": "/OKHUB/static/media/collab_1.4de372b4f5dd784f241d.png",
+    "static/media/logo_5.png": "/OKHUB/static/media/logo_5.03531001fa54d9974b81.png",
+    "static/media/circles.png": "/OKHUB/static/media/circles.764c96b3cc334860543f.png",
+    "index.html": "/OKHUB/index.html",
+    "main.a784f30c.css.map": "/OKHUB/static/css/main.a784f30c.css.map",
+    "main.a17e3939.js.map": "/OKHUB/static/js/main.a17e3939.js.map",
+    "453.7d5ef750.chunk.js.map": "/OKHUB/static/js/453.7d5ef750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a784f30c.css",
+    "static/js/main.a17e3939.js"
+  ]
+}

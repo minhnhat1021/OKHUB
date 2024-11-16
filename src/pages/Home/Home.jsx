@@ -81,6 +81,7 @@ function Home() {
             <section className={cx('vision')}>
                 <p className={cx('vision__title')}>tầm nhìn</p>
                 <p className={cx('vision__content')}>Ami&M xây dựng <span>hệ sinh thái đa ngành phát triển nhanh và bền vững</span> trên hành trình kiến tạo sự thịnh vượng đích thực!</p>
+                <img src={images.img_12} alt=''/>
             </section>
             
             <section className={cx('mission')}>
@@ -121,6 +122,9 @@ function Home() {
                             </div>
                         </div>
                     </div>
+                </div>
+                <div className={cx('mission__circles')}>
+                    <img src={images.circles} alt='okhub'/>
                 </div>
                 
             </section>
@@ -280,6 +284,11 @@ function Home() {
                             Phó trưởng Khoa Ngân hàng - Tài chính, ĐH Kinh tế, GHQG Hà Nội
                         </span>
                     </p>
+                    <div className={cx('collab__img')}>
+                        <img src={images.collab_1} alt=''/>
+                        <img src={images.collab_2} alt=''/>
+                        <img src={images.collab_3} alt=''/>
+                    </div>
                 </div>
                 <div className={cx('collab__bg3')}><Icon.Bg3 /></div>
                 <div className={cx('collab__bg4')}><Icon.Bg4 /></div>
@@ -298,7 +307,25 @@ function Home() {
 
             </section>
             <section className={cx('partners')}>
-                {/* <img src={images.logo_1} alt=''/> */}
+                <img src={images.logo_1} alt=''/>
+                <img src={images.logo_2} alt=''/>
+                <img src={images.logo_3} alt=''/>
+                <img src={images.logo_4} alt=''/>
+                <img src={images.logo_5} alt=''/>
+                <img src={images.logo_6} alt=''/>
+                <img src={images.logo_7} alt=''/>
+                <img src={images.logo_8} alt=''/>
+                <img src={images.logo_9} alt=''/>
+                <div className={cx('partners__text')}>
+                    <p>đối tác tiêu biểu</p>
+                    <p>đồng hành cùng ami&m</p>
+                </div>
+                <div className={cx('partners__bg1')}>
+
+                </div>
+                <div className={cx('partners__bg2')}>
+
+                </div>
             </section>
         </div>
     )

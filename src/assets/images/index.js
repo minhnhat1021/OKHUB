@@ -11,7 +11,25 @@ const images = {
     img_9: require('~/assets/images/img_9.png'),
     img_10: require('~/assets/images/img_10.png'),
     img_11: require('~/assets/images/img_11.png'),
+    img_12: require('~/assets/images/img_12.png'),
+
     logo_1: require('~/assets/images/logo_1.png'),
+    logo_2: require('~/assets/images/logo_2.png'),
+    logo_3: require('~/assets/images/logo_3.png'),
+    logo_4: require('~/assets/images/logo_4.png'),
+    logo_5: require('~/assets/images/logo_5.png'),
+    logo_6: require('~/assets/images/logo_6.png'),
+    logo_7: require('~/assets/images/logo_7.png'),
+    logo_8: require('~/assets/images/logo_8.png'),
+    logo_9: require('~/assets/images/logo_9.png'),
+
+    collab_1: require('~/assets/images/collab_1.png'),
+    collab_2: require('~/assets/images/collab_2.png'),
+    collab_3: require('~/assets/images/collab_3.png'),
+
+    circles: require('~/assets/images/circles.png'),
+
+
 
 
 }

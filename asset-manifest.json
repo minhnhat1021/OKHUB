@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OKHUB/static/css/main.a784f30c.css",
-    "main.js": "/OKHUB/static/js/main.a17e3939.js",
+    "main.js": "/OKHUB/static/js/main.fb185483.js",
     "static/js/453.7d5ef750.chunk.js": "/OKHUB/static/js/453.7d5ef750.chunk.js",
     "static/media/img_1.png": "/OKHUB/static/media/img_1.e8b6eafd5a3fe3b7b117.png",
     "static/media/img_9.png": "/OKHUB/static/media/img_9.ea2998736b0c06e07bac.png",
@@ -20,11 +20,11 @@
     "static/media/circles.png": "/OKHUB/static/media/circles.764c96b3cc334860543f.png",
     "index.html": "/OKHUB/index.html",
     "main.a784f30c.css.map": "/OKHUB/static/css/main.a784f30c.css.map",
-    "main.a17e3939.js.map": "/OKHUB/static/js/main.a17e3939.js.map",
+    "main.fb185483.js.map": "/OKHUB/static/js/main.fb185483.js.map",
     "453.7d5ef750.chunk.js.map": "/OKHUB/static/js/453.7d5ef750.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a784f30c.css",
-    "static/js/main.a17e3939.js"
+    "static/js/main.fb185483.js"
   ]
 }
